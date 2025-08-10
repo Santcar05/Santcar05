@@ -1,6 +1,3 @@
-<div align="center">
-   <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
-</div>
 
 <div align="center">
    <img src="https://raw.githubusercontent.com/Santcar05/Santcar05/main/banner.png" alt="Mi banner" width="100%">
