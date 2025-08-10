@@ -2,6 +2,10 @@
    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=100&color=gradient&reversal=true" />
 </div>
 
+<div align="center">
+   <img src="https://raw.githubusercontent.com/Santcar05/Santcar05/main/banner.png" alt="Mi banner" width="100%">
+</div>
+
 <h3 align="center">
   Hi, I'm Santiago Castro Garzón
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
