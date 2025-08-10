@@ -1,6 +1,6 @@
 
 <div align="center">
-   <img src="https://raw.githubusercontent.com/Santcar05/Santcar05/main/bannerGod.png" alt="Mi banner" width="100%">
+   <img src="https://raw.githubusercontent.com/Santcar05/Santcar05/main/superBanner.png" alt="Mi banner" width="100%">
 </div>
 
 <h3 align="center">
