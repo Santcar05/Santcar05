@@ -102,7 +102,7 @@
 
 ### 📈 Activity Graph
 
-[![Santiago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santcar05&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Santiago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santcar05&theme=react-dark)](https://github.com/Santcar05/github-readme-activity-graph)
 
 ### 📊 Most Used Language
 
