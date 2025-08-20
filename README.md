@@ -26,6 +26,13 @@
 - 💬 Pregúntame sobre mi experiencia en **desarrollo móvil**, **desarrollo web** y **computación en la nube**.
 - 🌱 Actualmente profundizando en _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ y _[AI](https://www.deeplearning.ai/)_
 
+### 📊 Most Used Language
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santcar05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Profile Stats">
+</p>
+
+
 ## 🛠 &nbsp;Tech Stack
 
 #### 🔧 Languages
@@ -104,11 +111,7 @@
 
 [![Santiago's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Santcar05&theme=react-dark)](https://github.com/Santcar05/github-readme-activity-graph)
 
-### 📊 Most Used Language
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Santcar05&show_icons=true&locale=en&layout=compact&theme=radical" alt="Profile Stats">
-</p>
 
 ### 🏆 Profile Trophies
 
