@@ -22,7 +22,7 @@
 
 ---
 
-- 👨‍💻 Como Ingeniero de Sistemas, me apasiona la **innovación**, la **IA** y el diseño de **arquitecturas de software** robustas.
+- 👨‍💻 Como Ingeniero de Sistemas, me apasiona la **innovación**, la **IA** y el diseño de **arquitecturas de software** robustas y escalables.
 - 💬 Pregúntame sobre mi experiencia en **desarrollo móvil**, **desarrollo web** y **computación en la nube**.
 - 🌱 Actualmente profundizando en _[Machine Learning](https://www.coursera.org/browse/data-science/machine-learning)_ y _[AI](https://www.deeplearning.ai/)_
 
